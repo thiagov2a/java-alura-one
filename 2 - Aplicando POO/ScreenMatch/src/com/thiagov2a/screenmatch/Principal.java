@@ -48,7 +48,7 @@ public class Principal {
         CalculadoraDeTiempo calculadora = new CalculadoraDeTiempo();
         calculadora.incluye(pelicula);
         calculadora.incluye(serie);
-        
+
         System.out.println("---------------------------------------");
         System.out.println("Tiempo total de visionado: " + calculadora.getTiempoTotal() + " minutos");
         System.out.println("---------------------------------------");
