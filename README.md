@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  Este documento contiene el desarrollo y la documentación de los ejercicios prácticos de Java Orientado a Objetos del Programa Alura + ONE.
+  Este documento contiene el desarrollo y la documentación de los ejercicios prácticos de la formación Java Orientado a Objetos del Programa Alura + ONE.
 </p>
 
 ## 📝 Ejercicios
@@ -34,7 +34,7 @@
 
 ### 6. ScreenMatch - Proyecto del Curso
 - **Descripción:** 🎬 Proyecto completo desarrollado a lo largo del curso que implementa una aplicación de gestión de películas y series.
-- **Archivo:** [ScreenMatch.java](./6-ScreenMatch/ScreenMatch/src/com/thiagov2a/screenmatch/ScreenMatch.java)
+- **Archivo:** [ScreenMatch.java](./6-ScreenMatch/ScreenMatch/src/com/thiagov2a/screenmatch/principal)
 
 ## 🛠 Tecnologías Utilizadas
 - **Java:** 💻 Lenguaje de programación principal.
