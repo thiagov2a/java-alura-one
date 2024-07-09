@@ -34,7 +34,7 @@
 
 ### 6. ScreenMatch - Proyecto del Curso
 - **Descripción:** 🎬 Proyecto completo desarrollado a lo largo del curso que implementa una aplicación de gestión de películas y series.
-- **Archivo:** [ScreenMatch.java](./6-ScreenMatch/ScreenMatch/src/com/thiagov2a/screenmatch/ScreenMatch.java)
+- **Archivo:** [ScreenMatch.java](./6-ScreenMatch/ScreenMatch/src/com/thiagov2a/screenmatch/principal)
 
 ## 🛠 Tecnologías Utilizadas
 - **Java:** 💻 Lenguaje de programación principal.
