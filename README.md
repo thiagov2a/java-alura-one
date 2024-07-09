@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  Este documento contiene el desarrollo y la documentación de los ejercicios prácticos de Java Orientado a Objetos del Programa Alura + ONE.
+  Este documento contiene el desarrollo y la documentación de los ejercicios prácticos de la formación Java Orientado a Objetos del Programa Alura + ONE.
 </p>
 
 ## 📝 Ejercicios
