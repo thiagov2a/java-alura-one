@@ -28,11 +28,11 @@
 - **Descripción:** Ejercicio sobre el consumo de APIs externas, escritura de archivos y manejo de excepciones en Java.
 - **Archivo:** [ConsumoAPI.java](./4-ConsumiendoAPIs/ConsumoAPI.java)
 
-## 5. Desafío Final
+### 5. Desafío Final
 - **Descripción:** Resolución del desafío del Conversor de Monedas, aplicando conceptos importantes de Java.
 - **Archivo:** [ConversorDeMonedas.java](./5-DesafioFinal/ConversorDeMonedas.java)
 
-- ## 6. ScreenMatch - Proyecto del Curso
+### 6. ScreenMatch - Proyecto del Curso
 - **Descripción:** Proyecto completo desarrollado a lo largo del curso que implementa una aplicación de gestión de películas y series.
 - **Archivo:** [ScreenMatch.java](./6-ScreenMatch/ScreenMatch/src/com/thiagov2a/screenmatch/ScreenMatch.java)
 
