@@ -1,4 +1,4 @@
-package com.thiagov2a.cardtrack;
+package com.thiagov2a.cardtrack.modelo;
 
 public class Compra implements Comparable<Compra> {
 

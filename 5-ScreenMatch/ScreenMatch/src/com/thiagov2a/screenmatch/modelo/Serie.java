@@ -1,4 +1,4 @@
-package com.thiagov2a.screenmatch.modelos;
+package com.thiagov2a.screenmatch.modelo;
 
 public class Serie extends Titulo {
 

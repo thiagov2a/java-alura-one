@@ -1,5 +1,9 @@
 package com.thiagov2a.starwarsapi;
 
+import com.thiagov2a.starwarsapi.modelo.Pelicula;
+import com.thiagov2a.starwarsapi.servicio.ConsultaPelicula;
+import com.thiagov2a.starwarsapi.util.GeneradorDeArchivos;
+
 import java.io.IOException;
 import java.util.Scanner;
 

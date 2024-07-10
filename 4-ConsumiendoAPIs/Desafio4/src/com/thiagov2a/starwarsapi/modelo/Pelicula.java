@@ -1,4 +1,4 @@
-package com.thiagov2a.starwarsapi;
+package com.thiagov2a.starwarsapi.modelo;
 
 public record Pelicula(String title,
                        int episode_id,

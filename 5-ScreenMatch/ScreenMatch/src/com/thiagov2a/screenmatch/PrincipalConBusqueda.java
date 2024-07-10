@@ -1,11 +1,11 @@
-package com.thiagov2a.screenmatch.principal;
+package com.thiagov2a.screenmatch;
 
 import com.google.gson.FieldNamingPolicy;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.thiagov2a.screenmatch.excepciones.ConversionJSONException;
-import com.thiagov2a.screenmatch.modelos.Titulo;
-import com.thiagov2a.screenmatch.modelos.TituloOMDb;
+import com.thiagov2a.screenmatch.modelo.Titulo;
+import com.thiagov2a.screenmatch.modelo.TituloOMDb;
 
 import java.io.FileWriter;
 import java.io.IOException;

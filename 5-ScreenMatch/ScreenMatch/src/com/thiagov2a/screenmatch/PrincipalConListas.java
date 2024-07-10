@@ -1,9 +1,8 @@
-package com.thiagov2a.screenmatch.principal;
+package com.thiagov2a.screenmatch;
 
-import com.google.gson.Gson;
-import com.thiagov2a.screenmatch.modelos.Pelicula;
-import com.thiagov2a.screenmatch.modelos.Serie;
-import com.thiagov2a.screenmatch.modelos.Titulo;
+import com.thiagov2a.screenmatch.modelo.Pelicula;
+import com.thiagov2a.screenmatch.modelo.Serie;
+import com.thiagov2a.screenmatch.modelo.Titulo;
 
 import java.util.ArrayList;
 import java.util.Collections;

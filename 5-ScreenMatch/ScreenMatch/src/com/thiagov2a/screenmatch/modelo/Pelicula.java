@@ -1,6 +1,6 @@
-package com.thiagov2a.screenmatch.modelos;
+package com.thiagov2a.screenmatch.modelo;
 
-import com.thiagov2a.screenmatch.calculos.Clasificacion;
+import com.thiagov2a.screenmatch.util.Clasificacion;
 
 public class Pelicula extends Titulo implements Clasificacion {
 

@@ -1,8 +1,7 @@
-package com.thiagov2a.screenmatch.modelos;
+package com.thiagov2a.screenmatch.modelo;
 
 import com.google.gson.annotations.SerializedName;
 import com.thiagov2a.screenmatch.excepciones.ConversionJSONException;
-import org.jetbrains.annotations.NotNull;
 
 public class Titulo implements Comparable<Titulo> {
 

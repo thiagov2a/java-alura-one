@@ -1,8 +1,8 @@
-package com.thiagov2a.screenmatch.principal;
+package com.thiagov2a.screenmatch;
 
-import com.thiagov2a.screenmatch.calculos.CalculadoraDeTiempo;
-import com.thiagov2a.screenmatch.calculos.FiltroDeRecomendacion;
-import com.thiagov2a.screenmatch.modelos.*;
+import com.thiagov2a.screenmatch.util.CalculadoraDeTiempo;
+import com.thiagov2a.screenmatch.util.FiltroDeRecomendacion;
+import com.thiagov2a.screenmatch.modelo.*;
 
 import java.util.ArrayList;
 

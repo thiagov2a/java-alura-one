@@ -1,7 +1,8 @@
-package com.thiagov2a.starwarsapi;
+package com.thiagov2a.starwarsapi.util;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import com.thiagov2a.starwarsapi.modelo.Pelicula;
 
 import java.io.FileWriter;
 import java.io.IOException;

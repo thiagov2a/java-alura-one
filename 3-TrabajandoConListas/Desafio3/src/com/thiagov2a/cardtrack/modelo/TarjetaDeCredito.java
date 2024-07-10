@@ -1,4 +1,4 @@
-package com.thiagov2a.cardtrack;
+package com.thiagov2a.cardtrack.modelo;
 
 import java.util.ArrayList;
 import java.util.List;

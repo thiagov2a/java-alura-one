@@ -1,6 +1,6 @@
-package com.thiagov2a.screenmatch.calculos;
+package com.thiagov2a.screenmatch.util;
 
-import com.thiagov2a.screenmatch.modelos.Titulo;
+import com.thiagov2a.screenmatch.modelo.Titulo;
 
 public class CalculadoraDeTiempo {
 

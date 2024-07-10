@@ -1,6 +1,7 @@
-package com.thiagov2a.starwarsapi;
+package com.thiagov2a.starwarsapi.servicio;
 
 import com.google.gson.Gson;
+import com.thiagov2a.starwarsapi.modelo.Pelicula;
 import org.ietf.jgss.GSSContext;
 
 import java.io.IOException;

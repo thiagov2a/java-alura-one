@@ -1,4 +1,4 @@
-package com.thiagov2a.screenmatch.calculos;
+package com.thiagov2a.screenmatch.util;
 
 public interface Clasificacion {
 

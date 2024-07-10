@@ -1,5 +1,8 @@
 package com.thiagov2a.cardtrack;
 
+import com.thiagov2a.cardtrack.modelo.Compra;
+import com.thiagov2a.cardtrack.modelo.TarjetaDeCredito;
+
 import java.util.Scanner;
 
 public class CardTrack {
