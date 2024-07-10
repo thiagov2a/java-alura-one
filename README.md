@@ -26,7 +26,7 @@
 
 ### 4. Consumiendo APIs, escribiendo archivos y manejando errores
 - **Descripción:** 🔌 Ejercicio sobre el consumo de APIs externas, escritura de archivos y manejo de excepciones en Java.
-- **Archivo:** [ConsumoAPI.java](./4-ConsumiendoAPIs/ConsumoAPI.java)
+- **Archivo:** [ConsumoAPI.java](./4-ConsumiendoAPIs/Desafio4/src/com/thiagov2a/starwarsapi/SWAPI.java)
 
 ### 5. Desafío Final
 - **Descripción:** 🎯 Resolución del desafío del Conversor de Monedas, aplicando conceptos importantes de Java.
