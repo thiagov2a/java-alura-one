@@ -1,4 +1,6 @@
-package com.thiagov2a.audiowave.entidades;
+package com.thiagov2a.audiowave.util;
+
+import com.thiagov2a.audiowave.modelo.Audio;
 
 public class Favoritos {
 

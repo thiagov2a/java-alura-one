@@ -1,4 +1,4 @@
-package com.thiagov2a.audiowave.entidades;
+package com.thiagov2a.audiowave.modelo;
 
 public class Audio {
 

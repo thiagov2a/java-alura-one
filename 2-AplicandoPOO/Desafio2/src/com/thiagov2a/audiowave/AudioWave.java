@@ -1,8 +1,8 @@
 package com.thiagov2a.audiowave;
 
-import com.thiagov2a.audiowave.entidades.Cancion;
-import com.thiagov2a.audiowave.entidades.Favoritos;
-import com.thiagov2a.audiowave.entidades.Podcast;
+import com.thiagov2a.audiowave.modelo.Cancion;
+import com.thiagov2a.audiowave.util.Favoritos;
+import com.thiagov2a.audiowave.modelo.Podcast;
 
 public class AudioWave {
 
