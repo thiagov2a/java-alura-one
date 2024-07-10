@@ -1,5 +1,6 @@
 package com.thiagov2a.screenmatch.principal;
 
+import com.google.gson.Gson;
 import com.thiagov2a.screenmatch.modelos.Pelicula;
 import com.thiagov2a.screenmatch.modelos.Serie;
 import com.thiagov2a.screenmatch.modelos.Titulo;
@@ -46,7 +47,6 @@ public class PrincipalConListas {
 
         listaDeTitulos.sort(Comparator.comparing(Titulo::getFechaDeLanzamiento));
         System.out.println("Lista de películas ordenada por fecha: " + listaDeTitulos);
-
     }
 
 }

@@ -1,11 +1,17 @@
 package com.thiagov2a.screenmatch.modelos;
 
+import com.google.gson.annotations.SerializedName;
+import com.thiagov2a.screenmatch.excepciones.ConversionJSONException;
 import org.jetbrains.annotations.NotNull;
 
 public class Titulo implements Comparable<Titulo> {
 
+    @SerializedName("Title")
     private String nombre;
+
+    @SerializedName("Year")
     private int fechaDeLanzamiento;
+
     private int duracionEnMinutos;
     private boolean incluidoEnElPlan;
     private double sumaDeLasCalificaciones;
@@ -14,6 +20,20 @@ public class Titulo implements Comparable<Titulo> {
     public Titulo(String nombre, int fechaDeLanzamiento) {
         this.nombre = nombre;
         this.fechaDeLanzamiento = fechaDeLanzamiento;
+    }
+
+    public Titulo(TituloOMDb tituloOMDb) {
+        this.nombre = tituloOMDb.title();
+
+        if (tituloOMDb.year().contains("N/A")) {
+            throw new ConversionJSONException("No se pudo obtener el año de lanzamiento del título");
+        }
+        this.fechaDeLanzamiento = Integer.parseInt(tituloOMDb.year().substring(0, 4));
+
+        if (tituloOMDb.runtime().contains("N/A")) {
+            throw new ConversionJSONException("No se pudo obtener la duración del título");
+        }
+        this.duracionEnMinutos = Integer.parseInt(tituloOMDb.runtime().substring(0, tituloOMDb.runtime().indexOf(" ")));
     }
 
     public void muestraFichaTecnica() {
@@ -81,6 +101,11 @@ public class Titulo implements Comparable<Titulo> {
 
     public void setNumeroDeCalificaciones(int numeroDeCalificaciones) {
         this.numeroDeCalificaciones = numeroDeCalificaciones;
+    }
+
+    @Override
+    public String toString() {
+        return "Título: " + nombre + " (" + fechaDeLanzamiento + ") " + duracionEnMinutos + " min";
     }
 
     @Override

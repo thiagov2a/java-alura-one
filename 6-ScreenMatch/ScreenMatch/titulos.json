@@ -1,0 +1,34 @@
+[
+  {
+    "Title": "28 Days Later",
+    "Year": 2002,
+    "DuracionEnMinutos": 113,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasCalificaciones": 0.0,
+    "NumeroDeCalificaciones": 0
+  },
+  {
+    "Title": "Close",
+    "Year": 2022,
+    "DuracionEnMinutos": 104,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasCalificaciones": 0.0,
+    "NumeroDeCalificaciones": 0
+  },
+  {
+    "Title": "Aftersun",
+    "Year": 2022,
+    "DuracionEnMinutos": 102,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasCalificaciones": 0.0,
+    "NumeroDeCalificaciones": 0
+  },
+  {
+    "Title": "Call Me by Your Name",
+    "Year": 2017,
+    "DuracionEnMinutos": 132,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasCalificaciones": 0.0,
+    "NumeroDeCalificaciones": 0
+  }
+]
