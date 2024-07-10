@@ -14,7 +14,7 @@
 
 ### 1. Creando tu primera aplicación en Java
 - **Descripción:** 🛠 Ejercicio práctico sobre la creación de una primera aplicación en Java.
-- **Archivo:** [PrimeraAplicacion.java](./1-CreandoPrimerAplicacion/PrimerAplicacion/src)
+- **Archivo:** [PrimerAplicacion.java](./1-CreandoPrimerAplicacion/PrimerAplicacion/src)
 
 ### 2. Aplicando la Orientación a Objetos
 - **Descripción:** 🏛 Ejercicio sobre los fundamentos de la programación orientada a objetos.
